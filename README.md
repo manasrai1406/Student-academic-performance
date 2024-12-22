@@ -31,5 +31,5 @@ This project aims to analyze and predict student academic performance using vari
     ```
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+Contributions are welcome just keep the structure same.
 
